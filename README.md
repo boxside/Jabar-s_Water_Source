@@ -1,4 +1,4 @@
-### Jumlah Ketersediaan Sumber Air di Desa Berdasarkan Kondisi 
+# Jumlah Ketersediaan Sumber Air di Desa Berdasarkan Kondisi 
 
 ## Background Information:
 Dataset ini berisi data jumlah ketersediaan sumber air di desa berdasarkan kondisi di Provinsi Jawa Barat periode tahun 2020.
@@ -28,8 +28,8 @@ In this task, we use python pandas, python matplotlib, seaborn and geopandas to 
 3. Data Exploration
 4. Visualization Data Result
 ## Result
- # Visualize the amount of water source in the city/district based on condition! 
- # Which the city/distric has the most water source?
- # Which the city/distric has the most water source that had seriously damaged condition?
- # Visualize with geomapping,data of water source avaliability based on city/distric!
+ ### Visualize the amount of water source in the city/district based on condition! 
+ ### Which the city/distric has the most water source?
+ ### Which the city/distric has the most water source that had seriously damaged condition?
+ ### Visualize with geomapping,data of water source avaliability based on city/distric!
 

@@ -31,6 +31,14 @@ In this task, we use python pandas, python matplotlib, seaborn and geopandas to 
  ### Visualize the amount of water source in the city/district based on condition! 
  ![Figure 1](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_1.png)
  ### Which the city/distric has the most water source?
+ ![Figure 2](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_2.png)
+ 
+ **Kabupaten Garut** has the most amount of water source in West Java based on city/distric
  ### Which the city/distric has the most water source that had seriously damaged condition?
+ ![Figure 3](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_4.png)
+ **Kabupaten Cianjur** has the most amount of water source with seriously damaged condition in West Java based on city/distric
  ### Visualize with geomapping,data of water source avaliability based on city/distric!
+ ![Figure 4](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_3.png)
+ 
+ 
 

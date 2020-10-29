@@ -18,8 +18,8 @@ SC : https://data.jabarprov.go.id/dataset/wilayah-jawa-barat/resource/fff4a9bf-1
 In this task, we use python pandas, python matplotlib, seaborn and geopandas to analyze and visualization our data. The data contain the water source avaliability with certain condition in West Java's Village.
 ## Task:
 1. Visualize the amount of water source in the city/district based on condition! 
-2. Which the city/distric has the most water source?
-3. Which the city/distric has the most water source that had seriously damaged condition?
+2. Which the city/district has the most water source?
+3. Which the city/district has the most water source that had seriously damaged condition?
 4. Visualize with geomapping,data of water source avaliability based on city/distric!
 
 ## Step:
@@ -30,14 +30,14 @@ In this task, we use python pandas, python matplotlib, seaborn and geopandas to 
 ## Result
  ### Visualize the amount of water source in the city/district based on condition! 
  ![Figure 1](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_1.png)
- ### Which the city/distric has the most water source?
+ ### Which the city/district has the most water source?
  ![Figure 2](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_2.png)
  
- **Kabupaten Garut** has the most amount of water source in West Java based on city/distric
- ### Which the city/distric has the most water source that had seriously damaged condition?
+ **Kabupaten Garut** has the most amount of water source in West Java based on city/district
+ ### Which the city/district has the most water source that had seriously damaged condition?
  ![Figure 3](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_4.png)
- **Kabupaten Cianjur** has the most amount of water source with seriously damaged condition in West Java based on city/distric
- ### Visualize with geomapping,data of water source avaliability based on city/distric!
+ **Kabupaten Cianjur** has the most amount of water source with seriously damaged condition in West Java based on city/district
+ ### Visualize with geomapping,data of water source avaliability based on city/district!
  ![Figure 4](https://github.com/boxside/Jabar-s_Water_Source/blob/main/figure/Figure_3.png)
  
  

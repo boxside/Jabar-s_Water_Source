@@ -1,9 +1,7 @@
 # Jumlah Ketersediaan Sumber Air di Desa Berdasarkan Kondisi 
 
 ## Background Information:
-Dataset ini berisi data jumlah ketersediaan sumber air di desa berdasarkan kondisi di Provinsi Jawa Barat periode tahun 2020.
 This dataset contain amount of water source avaliability of West Java's Village based on Condition with period of 2020.
-Adapun penjelasan mengenai variabel di dalam Dataset ini adalah sebagai berikut:
 there are explenation of variable in this dataset as follow:
 
     *provinsi: express of data's scope from the region of West Java 
